@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I like watching movies, sketching and go to the GYM very often.**
 
-#
+
 ## 🚀 Languages and Tools which I am using:
 <p align="left"> 
     <!-- HTML CSS -->
