@@ -102,7 +102,7 @@
 <!--## 📊 My Github Stats-->
   <br/>
     <a href="https://github.com/omkargaikwad-23/github-readme-stats">
-      <img alt="Omkar Gaikwad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omkargaikwad-    23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Omkar Gaikwad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omkargaikwad-23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
     <a href="https://github.com/omkargaikwad-23/github-readme-stats">
       <img alt="Omkar Gaikwad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkargaikwad-23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
