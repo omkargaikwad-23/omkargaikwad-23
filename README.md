@@ -17,7 +17,7 @@
 
 <!--- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**-->
 
-- ⚡ Fun fact **I like watching movies, sketching and go to the GYM very often.**
+- ⚡ Fun fact **I like watching movies, sketching and going to the GYM very often.**
 
 
 ## 🚀 Languages and Tools which I am using:
@@ -101,8 +101,12 @@
 
 <!--## 📊 My Github Stats-->
   <br/>
-    <a href="https://github.com/omkargaikwad-23/github-readme-stats"><img alt="Omkar Gaikwad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omkargaikwad-23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/omkargaikwad-23/github-readme-stats"><img alt="Omkar Gaikwad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkargaikwad-23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/omkargaikwad-23/github-readme-stats">
+      <img alt="Omkar Gaikwad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omkargaikwad-    23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/omkargaikwad-23/github-readme-stats">
+      <img alt="Omkar Gaikwad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkargaikwad-23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
 
   <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
 
