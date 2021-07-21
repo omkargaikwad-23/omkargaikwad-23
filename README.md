@@ -101,21 +101,32 @@
 
 <!--## 📊 My Github Stats-->
   <br/>
+  <p align="center">
     <a href="https://github.com/omkargaikwad-23/github-readme-stats">
-  <img alt="Omkar Gaikwad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omkargaikwad-23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Omkar Gaikwad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omkargaikwad-23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
     <a href="https://github.com/omkargaikwad-23/github-readme-stats">
       <img alt="Omkar Gaikwad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkargaikwad-23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
+  </p>
 
   <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
 
-<a href="https://github.com/omkargaikwad-23/github-readme-activity-graph">
+<a align="center" href="https://github.com/omkargaikwad-23/github-readme-activity-graph">
   <img alt="Omkar Gaikwad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omkargaikwad-23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
 
 <!--## Connect with me:-->
 #
+<!--## ❤ Views and Followers-->
+<p align="center">
+  <a href="https://github.com/omkargaikwad-23/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=omkargaikwad-23">
+  </a>
+  <a href="https://github.com/omkargaikwad-23?tab=followers">
+    <img src="https://img.shields.io/github/followers/omkargaikwad-23?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
 <p align="center">
   <a href = "https://www.linkedin.com/in/omkargaikwad23/" title="LinkedIn">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -130,12 +141,4 @@
   <!--<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>-->
 </p>
 
-<!--## ❤ Views and Followers
 
-<p>
-  <a href="https://github.com/omkargaikwad-23/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=omkargaikwad-23">
-  </a>
-  <a href="https://github.com/omkargaikwad-23?tab=followers">
-    <img src="https://img.shields.io/github/followers/omkargaikwad-23?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>-->
