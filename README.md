@@ -119,13 +119,13 @@
 <!--## Connect with me:-->
 #
 <!--## ❤ Views and Followers-->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/omkargaikwad-23/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=omkargaikwad-23">
   </a>
   <a href="https://github.com/omkargaikwad-23?tab=followers">
     <img src="https://img.shields.io/github/followers/omkargaikwad-23?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+</p> -->
 
 <p align="center">
   <a href = "https://www.linkedin.com/in/omkargaikwad23/" title="LinkedIn">
