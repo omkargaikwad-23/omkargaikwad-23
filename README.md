@@ -1,14 +1,17 @@
 <h1 align="left">
-  Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hey there! I'm Omkar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m **Computer Engineering Student** at [**Pune Institute of Computer Technology**](https://pict.edu/)
 - 🌱 I’m currently learning **Data Structures and Algorithms** & **Data Science.**
 - 🔭 I’m currently working on something cool 😉
-- ⚡ Fun fact **I like reading, watching movies, sketching and going to the GYM very often.**
+- ⚡ Fun fact **I like reading, watching movies and going to the GYM very often.**
 <!--- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**-->
+
 
 ### 🛠 &nbsp;Tech Stack
 <p align="left"> 
