@@ -1,26 +1,16 @@
-<!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>-->
-
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omkar !
+<h1 align="left">
+  Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<!-- <h3 align="center">
-  I'm a passionate Full Stack Developer from India.
-</h3> -->
 
-## 🙋‍♂️ About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m **Computer Engineering Student** at [**Pune Institute of Computer Technology**](https://pict.edu/)
-
 - 🌱 I’m currently learning **Data Structures and Algorithms** & **Data Science.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
+- 🔭 I’m currently working on something cool 😉
+- ⚡ Fun fact **I like reading, watching movies, sketching and going to the GYM very often.**
 <!--- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**-->
 
-- ⚡ Fun fact **I like watching movies, sketching and going to the GYM very often.**
-
-
-## 🚀 Languages and Tools which I am using:
+### 🛠 &nbsp;Tech Stack
 <p align="left"> 
     <!-- HTML CSS -->
     <a href="https://www.w3.org/html/" target="_blank"> 
@@ -52,9 +42,9 @@
     <a href="https://expressjs.com" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     </a>
-    <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
       <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
-    </a> -->
+    </a>
     <!-- MongoDB -->
     <a href="https://www.mongodb.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
@@ -84,48 +74,23 @@
     <a href="" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
     </a>
-    <a href="https://www.eclipse.org/" target="_blank">
+    <!--<a href="https://www.eclipse.org/" target="_blank">
       <img src="https://img.icons8.com/ios-filled/50/000000/java-eclipse.png"/>
-    </a>
+    </a>-->
     <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
     <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
 </p>
 
-#
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/omkargaikwad23/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omkar Gaikwad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omkargaikwad23&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omkargaikwad23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omkargaikwad23&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<!--## 📊 My Github Stats-->
-  <br/>
-  <p align="center">
-    <a href="https://github.com/omkargaikwad23/github-readme-stats">
-    <img alt="Omkar Gaikwad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omkargaikwad23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-    <a href="https://github.com/omkargaikwad23/github-readme-stats">
-      <img alt="Omkar Gaikwad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkargaikwad23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-  </p>
-
-  <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
-
-<a align="center" href="https://github.com/omkargaikwad23/github-readme-activity-graph">
-  <img alt="Omkar Gaikwad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omkargaikwad23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
-
-<!--## Connect with me:-->
-#
-<!--## ❤ Views and Followers-->
-<!-- <p align="center">
-  <a href="https://github.com/omkargaikwad23/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=omkargaikwad23">
-  </a>
-  <a href="https://github.com/omkargaikwad23?tab=followers">
-    <img src="https://img.shields.io/github/followers/omkargaikwad23?label=Followers&style=social" alt="GitHub Badge"></a>
-</p> -->
 
 <p align="center">
   <a href = "https://www.linkedin.com/in/omkargaikwad23/" title="LinkedIn">
