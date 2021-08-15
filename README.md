@@ -1,8 +1,8 @@
 <h1 align="left">
-  Hey there! I'm Omkar. <img src="https://github.com/omkargaikwad23/omkargaikwad23/blob/main/Night-Coding-Pic.gif" width="30px">
+  Hey there! I'm Omkar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/omkargaikwad23/omkargaikwad23/blob/main/Night-Coding-Pic.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
