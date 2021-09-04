@@ -102,7 +102,7 @@
   <a href = "https://www.instagram.com/omkar.gaikwad._/" title="Instagram">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
-  <a href="mailto:vimalgalani28@gmail.com" title="Mail me" target="_blank" onclick="window.open('your WS URL');">
+  <a href="mailto:omkargaikwad9552@gmail.com" title="Mail me" target="_blank" onclick="window.open('your WS URL');">
     <img src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>
   </a>
   <!--<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/resume.png"/></a>-->
