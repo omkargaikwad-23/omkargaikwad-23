@@ -105,7 +105,10 @@
   <a href="mailto:omkargaikwad9552@gmail.com" title="Mail me" target="_blank" onclick="window.open('your WS URL');">
     <img src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>
   </a>
-  <!--<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/resume.png"/></a>-->
+  <!--<a href="https://auth.geeksforgeeks.org/user/omkargaikwad/practice/" title="GeeksforGeeks">
+    <img src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png"/>
+  </a>
+  <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/resume.png"/></a>-->
   <!--<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>-->
 </p>
 
