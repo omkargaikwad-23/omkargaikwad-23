@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hey there! I'm Omkar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hey there! I'm Omkar.
 </h1>
 
 <img alt="Night Coding" src="https://github.com/omkargaikwad23/omkargaikwad23/blob/main/Night-Coding-Pic.gif" align="right"/>
