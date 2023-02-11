@@ -6,9 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m **3rd year Computer Engineering Student** at [**PICT**](https://pict.edu/)
-- 🌱 I’m currently learning **Data Structures and Algorithms** & **Data Science.**
-- 🔭 I’m currently working on something cool 😉
+- 🔭 I’m **final year Computer Engineering Student** at [**PICT**](https://pict.edu/)
+- 🌱 I’m good at **Data Structures and Algorithms**, **OOP** and **C++**.
+- 🔭 I’m currently working as a **Software Engineer intern** at [**PubMatic**](https://pubmatic.com/).
 - ⚡ Fun fact **I like reading, watching movies and going to the GYM very often.**
 <!--- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**-->
 
