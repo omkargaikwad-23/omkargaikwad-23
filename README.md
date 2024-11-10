@@ -6,9 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m **final year Computer Engineering Student** at [**PICT**](https://pict.edu/)
-- 🌱 I’m good at **Data Structures and Algorithms**, **OOP** and **C++**.
-- 🔭 I’m currently working as a **Software Engineer intern** at [**PubMatic**](https://pubmatic.com/).
+- 🔭 I graduated with a degree in **Computer Engineering** from [**PICT**](https://pict.edu/)
+- 🌱 I have strong proficiency in **Big-Data Analytics, Data Structures and Algorithms, Object-Oriented Programming (OOP), and C++.**
+- 🔭 I’m currently working as a **Software Engineer** at [**PubMatic**](https://pubmatic.com/).
 - ⚡ Fun fact **I like reading, watching movies and going to the GYM very often.**
 <!--- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**-->
 
@@ -99,9 +99,9 @@
   <a href = "https://www.linkedin.com/in/omkargaikwad23/" title="LinkedIn">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href = "https://www.instagram.com/omkar.gaikwad._/" title="Instagram">
+  <!--<a href = "https://www.instagram.com/omkargaikwad.23/" title="Instagram">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-  </a>
+  </a>-->
   <a href="mailto:omkargaikwad9552@gmail.com" title="Mail me" target="_blank" onclick="window.open('your WS URL');">
     <img src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>
   </a>
